@@ -1,0 +1,2 @@
+Un programa que muestra las caracteristicas de celulares
+Class - extends
