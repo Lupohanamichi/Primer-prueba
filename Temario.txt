@@ -1,2 +1,2 @@
-Un programa que muestra las caracteristicas de celulares, listos para comprar.
+Un programa que muestra las caracteristicas de celulares, listos para comprar. Para la solucion del problema.
 Class - extends
